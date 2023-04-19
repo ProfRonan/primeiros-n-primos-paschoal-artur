@@ -1,7 +1,7 @@
 #Receiving information from user
 num = int(input("Digite um número: \n"))
 
-# Operations with information
+# Operating with information
 n = 2
 count = 0
 
